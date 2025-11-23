@@ -1,0 +1,2 @@
+class BasicModule:
+    pass
